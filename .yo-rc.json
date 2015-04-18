@@ -1,0 +1,28 @@
+{
+  "generator-angularjs-library": {
+    "props": {
+      "author": {
+        "name": "Olgasan",
+        "email": "oh.cardenas@gmail.com"
+      },
+      "libraryName": {
+        "original": "clinicatdd",
+        "camelized": "clinicatdd",
+        "dasherized": "clinicatdd",
+        "slugified": "clinicatdd",
+        "parts": [
+          "clinicatdd"
+        ]
+      },
+      "includeModuleDirectives": true,
+      "includeModuleFilters": true,
+      "includeModuleServices": true,
+      "includeAngularModuleResource": false,
+      "includeAngularModuleCookies": false,
+      "includeAngularModuleSanitize": false,
+      "librarySrcDirectory": "src/clinicatdd",
+      "libraryUnitTestDirectory": "test/unit/clinicatdd",
+      "libraryUnitE2eDirectory": "test/e2e/clinicatdd"
+    }
+  }
+}

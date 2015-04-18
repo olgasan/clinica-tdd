@@ -1,0 +1,23 @@
+{
+  "name": "clinicatdd",
+  "version": "0.1.0",
+  "authors": [
+    {
+      "name": "Olgasan",
+      "email": "oh.cardenas@gmail.com"
+    }
+  ],
+  "main": ["dist/clinicatdd.js"],
+  "ignore": [
+    "src",
+    "test",
+    "Gruntfile.js",
+    "**/.*"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "angular-mocks": ">=1.2.0",
+    "angular-scenario": ">=1.2.0",
+    "angular": ">=1.2.0"
+  }
+}
