@@ -1,6 +1,6 @@
 'use strict';
 
-describe('', function() {
+xdescribe('', function() {
 
   var module;
   var dependencies;
